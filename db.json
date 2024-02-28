@@ -1,6 +1,7 @@
 {
   "posts":[
   {
+    "id":1,
     "Company name": "SAP",
     "Website URL": "https://www.sap.com/",
     "Product name": "SAP S/4HANA",
@@ -12,6 +13,7 @@
     "Note": "SAP S/4HANA is a comprehensive ERP solution with a strong focus on manufacturing and retail industries, offering deep integration with Netsuite and Salesforce, a range of advanced features, and high customization capabilities."
   },
   {
+    "id":2,
     "Company name": "Oracle",
     "Website URL": "https://www.oracle.com/",
     "Product name": "Oracle NetSuite",
@@ -23,6 +25,7 @@
     "Note": "Oracle NetSuite is a popular ERP solution designed for mid-sized to large enterprises, offering robust integrations with Salesforce, a wide range of core and advanced features, and strong customization options."
   },
   {
+    "id":3,
     "Company name": "Microsoft",
     "Website URL": "https://www.microsoft.com/",
     "Product name": "Microsoft Dynamics 365",
@@ -34,7 +37,8 @@
     "Note": "Microsoft Dynamics 365 is a comprehensive ERP solution with a focus on manufacturing and retail industries, featuring tight integration with both Netsuite and Salesforce, a rich set of core and advanced features, and high levels of customization."
   },
   {
-    "Company name": "Acumatica",
+    "id":4,
+   "Company name": "Acumatica",
     "Website URL": "https://www.acumatica.com/",
     "Product name": "Acumatica Cloud ERP",
     "Sales Contact": {
