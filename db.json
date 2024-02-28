@@ -1,4 +1,5 @@
-"posts":[
+{
+  "posts":[
   {
     "Company name": "SAP",
     "Website URL": "https://www.sap.com/",
@@ -44,3 +45,4 @@
     "Note": "Acumatica Cloud ERP is a cloud-based ERP solution tailored for small to mid-sized businesses, offering strong integrations with Netsuite and Salesforce, a comprehensive set of core and advanced features, and flexible customization options."
   }
 ]
+}
